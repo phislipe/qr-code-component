@@ -46,8 +46,6 @@ body {
 
 After much refactoring, I was able to make the QR code card stay centered on the page using less code.
 
-Also pretend to look more into `box-shadow`, since I'm not really happy with what it is right now.
-
 ### Useful resources
 
 - [Stack Overflow](https://stackoverflow.com/questions/396145/how-can-i-vertically-center-a-div-element-for-all-browsers-using-css) - This 13-year-old post helped me figure out how to center a div vertically. At first, I was using three divs to be able to center one of them vertically. After reading through it, I made it work properly with `flexbox`(a much simpler solution).
