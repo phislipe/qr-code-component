@@ -1,43 +1,44 @@
 * {
+  box-sizing: border-box;
+  font-size: 62.5%;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 body {
-  background-color: hsl(212, 45%, 89%);
+  background: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
-  letter-spacing: 0.1px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  letter-spacing: 0.5px;
+  display: grid;
+  place-items: center;
   height: 100vh;
 }
 
 .card {
   background: hsl(0, 0%, 100%);
+  display: grid;
   text-align: center;
-  padding: 16px 16px 40px;
-  width: 320px;
+  width: 32rem;
+  padding: 1.6rem 1.6rem 4rem;
   border-radius: 20px;
   box-shadow: 0 20px 25px hsla(0, 0%, 0%, 0.08);
 }
 
 .qrCodeImage {
-  width: 288px;
+  width: 28.8rem;
   border-radius: 10px;
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 2.2rem;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  padding: 20px 15px 0;
+  margin: 2.4rem 0 1.5rem;
 }
 
 p {
-  font-size: 15px;
+  font-size: 1.5rem;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
-  padding: 15px 15px 0;
+  padding: 0 1rem;
 }
