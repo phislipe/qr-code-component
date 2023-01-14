@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/banner.png" alt="Frontend Mentor">
+  <img src="./assets/banner.svg" alt="Frontend Mentor">
 </h1>
 
 <p align="center">
