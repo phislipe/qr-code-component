@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/frontend-mentor-logo.svg" alt="Frontend Mentor" width=35%>
+  <img src="./assets/banner.png" alt="Frontend Mentor">
 </h1>
 
 <p align="center">
