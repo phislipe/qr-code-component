@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">QR code component challenge on Frontend Mentor</a>.
+  This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">QR Code Component</a> challenge on Frontend Mentor.
 </p>
 
 <h3 align="center">
